@@ -1,0 +1,6 @@
+framework module Pods_AppAuth2 {
+  umbrella header "Pods-AppAuth2-umbrella.h"
+
+  export *
+  module * { export * }
+}
